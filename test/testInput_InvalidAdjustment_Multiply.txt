@@ -1,0 +1,23 @@
+Apple at 10p
+Orange at 20p
+Strawberry at 30p
+20 sales of apple at 10p each
+10 sales of oranges at 20p each
+10 sales of strawberries at 30p each
+Multiply 10p pineapples
+Papaya at 50p
+Add 20p apples
+Add 30p apples
+Add 10p oranges
+Add 40p oranges
+10 sales of oranges at 20p each
+Add 10p strawberries
+Pineapple at 50p
+Subtract 10p apples
+Multiply 10p pineapples
+10 sales of oranges at 20p each
+10 sales of strawberries at 30p each
+10 sales of apples at 20p each
+Add 20p strawberries
+Banana at 5p
+Pear at 20p

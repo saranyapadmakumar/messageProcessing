@@ -1,0 +1,52 @@
+Apple at 10p
+Orange at 20p
+Strawberry at 30p
+20 sales of apple at 10p each
+10 sales of oranges at 20p each
+10 sales of strawberries at 30p each
+Papaya at 50p
+Add 20p apples
+Add 30p apples
+Add 10p oranges
+Add 40p oranges
+10 sales of oranges at 20p each
+Add 10p strawberries
+Pineapple at 50p
+Subtract 10p apples
+Multiply 10p pineapples
+10 sales of oranges at 20p each
+10 sales of strawberries at 30p each
+10 sales of apples at 20p each
+Add 20p strawberries
+Banana at 5p
+Pear at 20p
+100 sales of banana at 5p each
+30 sales of Pear at 10p each
+Multiply 2p bananas
+50 sales of kiwi at 60p each
+20 sales of plum at 40p each
+30 sales of orange at 20p each
+2 sales of papaya at 50p each
+5 sales of pineapple at 50p each
+Subtract 30p kiwis
+Add 10p pears
+30 sales of strawberries at 30p each
+40 sales of oranges at 20p each
+5 sales of strawberries at 30p each
+10 sales of kiwi at 30p each
+20 sales of pears at 20p each
+50 sales of bananas at 5p each
+10 sales of apples at 20p each
+Subtract 10p kiwi
+10 sales of strawberries at 30p each
+20 sales of oranges at 20p each
+30 sales of strawberries at 30p each
+40 sales of kiwi at 30p each
+50 sales of pears at 20p each
+60 sales of bananas at 5p each
+10 sales of plums at 50p each
+Add 5p banana
+Add 10p pears
+Subtract 10p plums
+Avocado at 60p
+10 sales of avocado at 50p each
